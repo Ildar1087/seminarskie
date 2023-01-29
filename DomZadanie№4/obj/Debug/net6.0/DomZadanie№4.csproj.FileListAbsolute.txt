@@ -1,0 +1,15 @@
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\bin\Debug\net6.0\DomZadanie№4.exe
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\bin\Debug\net6.0\DomZadanie№4.deps.json
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\bin\Debug\net6.0\DomZadanie№4.runtimeconfig.json
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\bin\Debug\net6.0\DomZadanie№4.dll
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\bin\Debug\net6.0\DomZadanie№4.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.csproj.AssemblyReference.cache
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.AssemblyInfoInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.AssemblyInfo.cs
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.csproj.CoreCompileInputs.cache
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.dll
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\refint\DomZadanie№4.dll
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.pdb
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\DomZadanie№4.genruntimeconfig.cache
+E:\учёба GEEK BRAINS\программиров. на С#\1.1 семинарское\DomZadanie№4\obj\Debug\net6.0\ref\DomZadanie№4.dll
