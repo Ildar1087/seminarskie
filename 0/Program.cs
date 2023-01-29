@@ -1,5 +1,7 @@
 ﻿Console.Clear();
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine());
-int sqr = number * number;
+int num = int.Parse(Console.ReadLine());
+if (num %2)
+
+int sqr = number  number;
 Console.WriteLine($"квадрат числа{number} равен {sqr}");
